@@ -2,7 +2,6 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=osx,linux,dotenv,python,windows,visualstudiocode,git
 
 ### dotenv ###
-.env
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:
@@ -296,3 +295,5 @@ test-reports/
 DevTunnels/
 temp_interactive_push.bat
 branch_structure.json
+config.bat
+node_modules
